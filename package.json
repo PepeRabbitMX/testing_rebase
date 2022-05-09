@@ -1,0 +1,19 @@
+{
+  "name": "testing_rebase",
+  "version": "1.0.0",
+  "description": "hola soy pepe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PepeRabbitMX/testing_rebase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PepeRabbitMX/testing_rebase/issues"
+  },
+  "homepage": "https://github.com/PepeRabbitMX/testing_rebase#readme"
+}
